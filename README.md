@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luana 😁
+## Bem-vindo(a) ao perfil da Luana 😁
 
  <div>
    <a href="https://github.com/luanavitoriasilva">
